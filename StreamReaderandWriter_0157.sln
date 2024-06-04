@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreamReaderandWriter_0157", "StreamReaderandWriter_0157.vcxproj", "{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Debug|x64.ActiveCfg = Debug|x64
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Debug|x64.Build.0 = Debug|x64
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Debug|x86.Build.0 = Debug|Win32
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Release|x64.ActiveCfg = Release|x64
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Release|x64.Build.0 = Release|x64
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Release|x86.ActiveCfg = Release|Win32
+		{EE8B59E3-BC96-4973-B3A9-BB38C0AAA0D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EB6EE5-0A36-4972-9742-2F889A716D84}
+	EndGlobalSection
+EndGlobal
