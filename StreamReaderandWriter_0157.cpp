@@ -10,4 +10,7 @@ int main() {
 
 	// untuk menyimpan data berbentuk string
 	string baris;
+
+	// membuka file dalam node menulis.
+	ofstream outfile;
 }
