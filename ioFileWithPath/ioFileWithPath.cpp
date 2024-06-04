@@ -17,6 +17,15 @@ int main() {
 
 	cout << ">= Menuliskan file \'q\' untuk keluar" << endl;
 
-
-
+	// unlimited loop untuk menulis
+	while (true) {
+		cout << "- ";
+		// Mendapatkan setiap karakter dalam satu baris
+		getline(cin, baris);
+		// Loop akan berhenti jika anda memasukan karakter q
+		if (baris == "q") break;
+		// Menuliskan dan memasukan nilai dari 'baris' ke dalam file
+		outfile << baris << endl;
+	}
+	
 }
